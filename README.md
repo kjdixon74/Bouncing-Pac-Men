@@ -1,16 +1,16 @@
-# Project Title
+## Project Title
 Bouncing Pac-Men
 
-# Project Description
+## Project Description
 Welcome to a simplified, miniature version of the classic game of Pac-Man! You can create multiple Pac-Men and have them bounce around your screen.
 
-# How To Run
+## How To Run
 Open index.html in the browser to view.
 
-# Roadmap of Future Improvements
+## Roadmap of Future Improvements
 Future improvement plans include adding additional walls for the multiple Pac-Men to bounce off.
 
-# License Information
+## License Information
 MIT License
 
 Copyright (c) 2020 John Williams
